@@ -1813,6 +1813,37 @@ hr {
   border-radius: 10px;
 }
 
+/*MESSEG*/
+
+#msg-sec {
+  padding: 2vw 8vw;
+  text-align: center;
+}
+
+#msg-sec hr {
+  border-color: #e67e22 ;
+}
+
+#msg-sec i {
+  color: #e67e22;
+  font-size: 3em;
+  margin: 0em 0.4em;
+}
+
+#msg-sec img {
+  border-radius: 20px;
+  box-shadow: 8px 8px 10px #bbb;
+}
+
+#msg-sec p {
+  font-size: 1.4em;
+}
+
+#msg-sec small {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
 /* SCREEN */
 
 @media (min-width: 768px) { 
