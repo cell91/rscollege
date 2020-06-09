@@ -1844,6 +1844,23 @@ hr {
   font-weight: bold;
 }
 
+/* CHAT */
+
+.personal-chat {
+  background: white;
+  
+  padding: 0.5em 1em;
+  border-radius: 90px;
+  box-shadow: 0px 0px 10px lightgrey;
+
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  font-size: 1.5em;
+  margin: 1em;
+}
+
+
 /* SCREEN */
 
 @media (min-width: 768px) { 
@@ -1877,3 +1894,5 @@ hr {
   }
 
 }
+
+
